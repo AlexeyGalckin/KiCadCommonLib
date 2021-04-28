@@ -26,7 +26,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 7.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon_Capacitor_Silver_Mica.step
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Capacitor_Silver_Mica.step
     (offset (xyz 3.75 0 8.5))
     (scale (xyz 0.5 0.5 0.5))
     (rotate (xyz 90 0 0))

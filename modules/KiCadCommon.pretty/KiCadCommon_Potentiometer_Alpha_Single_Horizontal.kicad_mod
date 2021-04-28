@@ -27,7 +27,7 @@
   (pad 3 thru_hole circle (at 0 -10) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon_Potentiometer_Alpha_Vertical.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Potentiometer_Alpha_Vertical.step
     (offset (xyz 0.6 5 12.8))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

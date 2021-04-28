@@ -19,12 +19,12 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 2.54 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/R_Vertical_DIN0309.wrl
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/R_Vertical_DIN0309.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/KiCadCommonLib/modules/packages3d/MFR-25_MFR50S_(100mils).STEP"
+  (model "${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/MFR-25_MFR50S_(100mils).STEP"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1.2 1.2))
     (rotate (xyz 0 0 0))
