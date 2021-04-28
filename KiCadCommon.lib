@@ -77,11 +77,11 @@ X ~ 2 0 -150 130 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# C_US-simple-Peavey_5150
+# C_US-simple-KiCadCommon
 #
-DEF C_US-simple-Peavey_5150 C 0 40 N Y 1 F N
+DEF C_US-simple-KiCadCommon C 0 40 N Y 1 F N
 F0 "C" 150 50 50 H V L CNN
-F1 "C_US-simple-Peavey_5150" 150 -50 50 H V L CNN
+F1 "C_US-simple-KiCadCommon" 150 -50 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -235,11 +235,11 @@ X Earth_Protective 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Fuse-simple-Peavey_5150
+# Fuse-simple-KiCadCommon
 #
-DEF Fuse-simple-Peavey_5150 F 0 40 Y Y 1 F N
+DEF Fuse-simple-KiCadCommon F 0 40 Y Y 1 F N
 F0 "F" 0 100 50 H V C CNN
-F1 "Fuse-simple-Peavey_5150" 0 -100 50 H V C CNN
+F1 "Fuse-simple-KiCadCommon" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -250,11 +250,11 @@ X out 2 200 0 100 L 50 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# G5V-2-Relays-Peavey_5150
+# G5V-2-Relays-KiCadCommon
 #
-DEF G5V-2-Relays-Peavey_5150 K 0 40 Y Y 3 L N
+DEF G5V-2-Relays-KiCadCommon K 0 40 Y Y 3 L N
 F0 "K" 550 50 50 H V C CNN
-F1 "G5V-2-Relays-Peavey_5150" 600 -50 50 H V C CNN
+F1 "G5V-2-Relays-KiCadCommon" 600 -50 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -285,11 +285,11 @@ X ~ 9 250 -100 100 L 50 50 3 1 P
 ENDDRAW
 ENDDEF
 #
-# G5V1-Relays-Peavey_5150
+# G5V1-Relays-KiCadCommon
 #
-DEF G5V1-Relays-Peavey_5150 K 0 40 Y Y 2 L N
+DEF G5V1-Relays-KiCadCommon K 0 40 Y Y 2 L N
 F0 "K" 550 50 50 H V L CNN
-F1 "G5V1-Relays-Peavey_5150" 550 -50 50 H V L CNN
+F1 "G5V1-Relays-KiCadCommon" 550 -50 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -362,11 +362,11 @@ X S 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Jack_6.35-simple-Peavey_5150
+# Jack_6.35-simple-KiCadCommon
 #
-DEF Jack_6.35-simple-Peavey_5150 J 0 40 Y Y 1 F N
+DEF Jack_6.35-simple-KiCadCommon J 0 40 Y Y 1 F N
 F0 "J" -400 200 50 H V C CNN
-F1 "Jack_6.35-simple-Peavey_5150" -250 300 50 H V C CNN
+F1 "Jack_6.35-simple-KiCadCommon" -250 300 50 H V C CNN
 F2 "" -750 250 50 H I C CNN
 F3 "" -750 250 50 H I C CNN
 DRAW
@@ -476,11 +476,11 @@ X VO 3 300 0 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# MP4462-simple-Peavey_5150
+# MP4462-simple-KiCadCommon
 #
-DEF MP4462-simple-Peavey_5150 U 0 40 Y Y 1 F N
+DEF MP4462-simple-KiCadCommon U 0 40 Y Y 1 F N
 F0 "U" -400 200 50 H V L CNN
-F1 "MP4462-simple-Peavey_5150" -400 100 50 H V L CNN
+F1 "MP4462-simple-KiCadCommon" -400 100 50 H V L CNN
 F2 "" 420 730 50 H I C CNN
 F3 "" 420 730 50 H I C CNN
 DRAW
@@ -510,11 +510,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# R_POT_US_P-simple-Peavey_5150
+# R_POT_US_P-simple-KiCadCommon
 #
-DEF R_POT_US_P-simple-Peavey_5150 VR 0 40 Y N 1 F N
+DEF R_POT_US_P-simple-KiCadCommon VR 0 40 Y N 1 F N
 F0 "VR" 100 150 50 H V C CNN
-F1 "R_POT_US_P-simple-Peavey_5150" 300 -100 50 H V C CNN
+F1 "R_POT_US_P-simple-KiCadCommon" 300 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
