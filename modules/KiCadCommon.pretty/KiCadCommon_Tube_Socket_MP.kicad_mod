@@ -25,12 +25,12 @@
   (pad 5 thru_hole circle (at 0 -9.1) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at -5.25 7.15) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 5.25 -7.35) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Tube_Socket_GZC9.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon.3dshapes/KiCadCommon_Tube_Socket_GZC9.stp
     (offset (xyz -38.5 10.8 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -73))
   )
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Tube_Dual_Triode.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon.3dshapes/KiCadCommon_Tube_Dual_Triode.stp
     (offset (xyz -10 15 43))
     (scale (xyz 0.9 0.9 0.9))
     (rotate (xyz -125 90 0))

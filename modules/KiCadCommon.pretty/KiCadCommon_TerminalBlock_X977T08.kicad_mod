@@ -144,7 +144,7 @@
   (pad 2 thru_hole circle (at 7.62 0) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -7.62 0) (size 5 5) (drill 3.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 60.96 0) (size 5 5) (drill 3.5) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_TerminalBlock_X977T08_7.62mm_8pin.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon.3dshapes/KiCadCommon_TerminalBlock_X977T08_7.62mm_8pin.stp
     (offset (xyz 27 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

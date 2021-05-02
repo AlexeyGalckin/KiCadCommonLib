@@ -28,7 +28,7 @@
   )
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 15.24 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Resistor_MF_1W_Horizontal.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon.3dshapes/KiCadCommon_Resistor_MF_1W_Horizontal.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

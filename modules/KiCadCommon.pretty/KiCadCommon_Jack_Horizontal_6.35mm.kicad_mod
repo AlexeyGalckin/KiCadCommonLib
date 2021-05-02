@@ -24,7 +24,7 @@
   (pad 3 thru_hole circle (at 8.25 0) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at -8.25 0) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
 
-  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Jack_6.35mm_Horizontal.stp
+  (model ${KIPRJMOD}/KiCadCommonLib/modules/packages3d/KiCadCommon.3dshapes/KiCadCommon_Jack_6.35mm_Horizontal.stp
     (offset (xyz 0 10.8 4.5))
     (scale (xyz 1.05 1 1.05))
     (rotate (xyz -90 0 0))
