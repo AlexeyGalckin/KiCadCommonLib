@@ -24,7 +24,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/MFR-25_MFR50S_(100mils).STEP"
+  (model "${KIPRJMOD}/KiCadCommonLib/modules/packages3d/CommonLibrary.3dshapes/KiCadCommon_Resistor_Vertical_MFR25_100mil.stp"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1.2 1.2))
     (rotate (xyz 0 0 0))
